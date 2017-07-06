@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ru-RU">
+<head>
+<meta charset="UTF-8" />
+<title>Mustache (усы) skateboards  | Daily Weekend</title>
+<link rel="profile" href="../gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="wp-content/themes/twentyten/style.css" />
+
+<script src="../ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="jquery.infieldlabel.min.js" type="text/javascript" charset="utf-8"></script>
+<link rel="icon" href="wp-content/themes/twentyten/images/favicon.ico" />
+<link rel="shortcut icon" href="wp-content/themes/twentyten/images/favicon.ico" />
+
+ <link rel="stylesheet" href="wp-content/themes/twentyten/style.css" type="opera/css" media="screen" />
+<link rel="pingback" href="http://dailyweekend.com.ua/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Daily Weekend &raquo; Фид" href="@feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Daily Weekend &raquo; Лента комментариев" href="@feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="Daily Weekend &raquo; Mustache (усы) skateboards Лента комментариев" href="@feed=rss2&p=1281" />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='wp-content/plugins/wp-pagenavi/pagenavi-css.css@ver=2.70' type='text/css' media='all' />
+<link rel="stylesheet" href="wp-content/plugins/vkontakte-share-button/vk-share-button.css" type="text/css" /><script type='text/javascript' src='wp-includes/js/jquery/jquery.js@ver=1.4.2'></script>
+<script type='text/javascript' src='wp-includes/js/comment-reply.js@ver=20090102'></script>
+<script type='text/javascript' src='../vkontakte.ru/js/api/share.js@5&ver=3.0.5'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dailyweekend.com.ua/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='Daily Weekend' href='default.htm' />
+<link rel='start' title='Daily weekend' href='@p=19' />
+<link rel='prev' title='Отчет с Yard Sale 2 (фото+видео)' href='@p=1247' />
+<link rel='next' title='Миша Тевкун в WERUSH skateboards!' href='@p=1290' />
+<meta name="generator" content="WordPress 3.0.5" />
+<link rel='canonical' href='@p=1281' />
+<script type="text/javascript" src="../vkontakte.ru/js/api/share.js@10" charset="windows-1251"></script>
+</head>
+
+<body class="single single-post postid-1281">
+<div id="wrapper" class="hfeed">
+	<a href="default.htm"><div id="header">
+		<!-- <div id="masthead"> -->
+			<!-- <div style="margin:0 30px 0 0; float:left;">
+				<img src="images/logo.jpg" width="150" height="150" alt=""  >
+			</div> -->
+			<!-- <div id="branding" role="banner"> -->
+				<!-- 				<div id="site-title">
+					<span>
+						<a href="http://dailyweekend.com.ua/" title="Daily Weekend" rel="home">Daily Weekend</a>
+					</span>
+				</div> -->
+				<!-- <div id="site-description">Ukrainian online journal about skateboarders life</div> -->
+				
+				<!-- 						<img src="http://dailyweekend.com.ua/wp-content/themes/twentyten/images/headers/path.jpg" width="940" height="198" alt="" />
+					 -->
+			<!-- </div> --><!-- #branding -->
+
+			
+			<!-- #access -->
+		<!-- </div> --><!-- #masthead -->
+	</div></a><!-- #header -->
+<div id="access" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Перейти к содержимому">Перейти к содержимому</a></div>
+								  
+				
+				<div id="search"><form role="search" method="get" id="searchform" action="http://dailyweekend.com.ua/" >
+	<div><label class="screen-reader-text" for="s">Найти:</label>
+	<input type="text" value="" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="Найти" />
+	</div>
+	</form></div>
+
+				<div id="new_menu">
+					<div class="m1"><a href="default.htm" ></a></div>
+					<div class="m2"><a href="@cat=3"></a></div>
+					<div class="m3"><a href="@cat=4" ></a></div>
+					<div class="m4"><a href="@page_id=272" ></a></div>
+					<div class="m6"><a href="@page_id=562" ></a></div>
+					<div class="m5"><a href="@cat=5" ></a></div>
+				</div>
+				
+				
+				</div>
+	<div id="main">
+	<hr	style="padding:0;margin: 0 0px 0 180px;  text-align:right; background-color: #e5e5e5;" color= "#e5e5e5" size="1" align="right">
+			
+			<div id="leftbar" align="right">
+				<a href="../www.facebook.com/pages/Daily-Weekend/203437403018309" target="_blank"><div class="fb" align="center"></div></a>
+				<a href="../twitter.com/daily_weekend" target="_blank"><div class="tw" align="center"></div></a>
+				<a href="../vkontakte.ru/public25287352" target="_blank"><div class="vk" align="center"></div></a>
+				<a href="mailto:skate@dailyweekend.com.ua" target="_blank"><div class="mail" align="center"></div></a>
+			</div>
+
+		<div id="container">
+
+
+			<div id="content" role="main">
+
+
+				<!-- <div id="nav-above" class="navigation">
+					<div class="nav-previous"><a href="http://dailyweekend.com.ua/?p=1247" rel="prev"><span class="meta-nav">&larr;</span> Отчет с Yard Sale 2 (фото+видео)</a></div>
+					<div class="nav-next"><a href="http://dailyweekend.com.ua/?p=1290" rel="next">Миша Тевкун в WERUSH skateboards! <span class="meta-nav">&rarr;</span></a></div>
+				</div> --><!-- #nav-above -->
+
+				<div id="post-1281" class="post-1281 post type-post hentry category-1">
+					<h1 class="entry-title">Mustache (усы) skateboards</h1>
+
+					<!-- <div class="entry-meta">
+						<span class="meta-prep meta-prep-author">Опубликовано</span> <a href="http://dailyweekend.com.ua/?p=1281" title="20:23" rel="bookmark"><span class="entry-date">24/08/2011</span></a> <span class="meta-sep">от</span> <span class="author vcard"><a class="url fn n" href="http://dailyweekend.com.ua/?author=1" title="Просмотреть все записи от admin">admin</a></span>					</div> --><!-- .entry-meta -->
+
+					<div class="entry-content">
+						<p>Вітаємо з Днем Незалежності!<br />
+Стоить заметить, что к 20 году независимости, в украинском скейтбординге появилось  то, чего еще не было два года назад. Речь идет о скейт индустрии. И в этот праздничный день, к нам пришла очень радостная новость о появлении нового бренда скейтбордов.  Читаем!!!</p>
+<p>&#8220;<em>Как говориться &#8211; носи усы , носи не ссы&#8230;))))) </em><em>с даной радостью, тобишь усами, мы все встречались с детства&#8230; </em><em>так вот какого..?ТЫ ЕЩЕ БЕЗ НИХ??? </em><em>не растут усы..? &#8211; хватай деревянные и щеголяй по красоте и на усах!!! </em><em>кто не знал о таком малом городе как Запорожье , не беда)) </em><em>хотим представить к вашему вниманию &#8211; <span style="text-decoration: underline;">первый Запорожский бренд </span>:</em></p>
+<p><em> </em></p>
+<p><strong><em><span style="text-decoration: underline;">MUSTACHE</span></em></strong></p>
+<p><strong><em><span style="text-decoration: underline;"> </span></em></strong></p>
+<p><strong><em>СОЗДАТЕЛЯМИ</em></strong><em> </em><strong><em>И ИДЕАЛИСТАМИ ЯВЛЯЕМСЯ МЫ))</em></strong></p>
+<p><strong><em> </em></strong></p>
+<p><strong><em>А ТОЧНЕЕ :</em></strong></p>
+<p><strong><em> </em></strong></p>
+<p><strong><em>ДИМА МАКУХА (МАКУХА)</em></strong></p>
+<p><strong><em> </em></strong></p>
+<p><strong><em>И</em></strong></p>
+<p><strong><em> </em></strong></p>
+<p><strong><em>ДИМА ЗАВГОРОДНИЙ (ВОНЬ)</em></strong></p>
+<p><strong><em> </em></strong></p>
+<p><strong><em>ДОСКИ ПРЕДСТАВЛЕННЫ В 4-Х РАЗМЕРАХ И  3-Х СЛАВНЫХ   ДИЗАЙНАХ</em></strong></p>
+<p><strong><em> </em></strong></p>
+<p><strong><em>А ИМЕННО:</em></strong></p>
+<p><strong><em> </em></strong></p>
+<p><strong><em>7,75 / 8,0 / 8,125 / 8,5</em></strong></p>
+<p><strong><em> </em></strong></p>
+<p><strong><em>ДОСТОЧКИ КАК ОБЫЧНО 7-МИ СЛОЙНЫЕ С ЦВЕТНЫМИ СЛОЯМИ , ЧТО КАК ИЗВЕСТНО ПРИДАЕТ ШАРМА)) </em></strong><strong><em>ТАКЖЕ ЧАСТЫМ И ВОСТРЕБОВАННЫМ ПРОДУКТОМ ЯВЛЯЮТЬСЯ КОЛЕСА&#8230; </em></strong><strong><em>КОТОРЫЕ АЖ 27ММ ШИРИНОЙ И 52ММ В ДИАМЕТРЕ!!! </em></strong><strong><em>НЕ ЗНАЮ КАК ВАМ, НО СКАЖУ ВРЫВАТЬСЯ МОЖНО ПО ПОЛНОЙ))) </em></strong><strong><em>НУ И НЕЛЬЗЯ УМОЛЧАТЬ О ЧУДО УСАТОМ НАЖДАКЕ, КОТОРЫЙ НИКОГО НЕ ОСТАВИТ РАВНОДУШНЫМ!!! </em></strong><strong><em>ТАК ЧТО ЖДЕМ ЗАКАЗОВ ) </em></strong>&#8221;</p>
+<p><img class="aligncenter size-full wp-image-1282" title="x_24441321" src="wp-content/uploads/2011/08/x_24441321.jpg" alt="" width="604" height="453" /><img class="aligncenter size-full wp-image-1283" title="x_4b3a66d3" src="wp-content/uploads/2011/08/x_4b3a66d3.jpg" alt="" width="604" height="453" /><img class="aligncenter size-full wp-image-1284" title="x_c474b230" src="wp-content/uploads/2011/08/x_c474b230.jpg" alt="" width="604" height="436" /><img class="aligncenter size-full wp-image-1285" title="x_0a22210b" src="wp-content/uploads/2011/08/x_0a22210b.jpg" alt="" width="604" height="453" /><img class="aligncenter size-full wp-image-1286" title="x_2f18f4a7" src="wp-content/uploads/2011/08/x_5F2f18f4a7.jpg" alt="" width="604" height="453" /></p>
+<p><a href="../vk.com/mustache_skateboards" target="_blank">Страничка Вконтакте </a></p>
+<p><strong>И НА ПОСЛЕДОК:</strong></p>
+<p><strong> </strong></p>
+<p><strong><em><span style="text-decoration: underline;">ЖИЗНЬ ТЕЧЕТ И ВСЕ РАЗВИВАЕТСЯ&#8230; НО, УСЫ БЫЛИ, ЕСТЬ И БУДУТ !</span></em></strong></p>
+<div id="fb_share_1" style="float: left; margin-right: 10px;"><a name="fb_share" type="button_count" share_url="http://dailyweekend.com.ua/?p=1281" href="../www.facebook.com/sharer.php">Share</a></div><div><script src="../static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script></div><div style="float: left; margin: 0 10px 5px 0;" class="vk-button">
+<!-- vkontakte share button -->
+<script type="text/javascript">
+<!--
+document.write(VK.Share.button(
+{
+  url: '@p=1281',
+  title: 'Mustache (усы) skateboards ',
+  description: 'Вітаємо з Днем Незалежності!\nСтоить заметить, что к 20 году независимости, в украинском скейтбординге появилось  то, чего еще не было два года назад. Речь идет о скейт индустрии. И в этот праздн...',
+  noparse: true 
+}, 
+{
+  type: 'round',
+  text: 'Сохранить'
+}));
+-->
+</script>
+<!-- / vkontakte share button -->
+</div><a href="../twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="bankomet">Tweet</a><script type="text/javascript" src="../platform.twitter.com/widgets.js"></script>
+<br><br><br>
+<iframe src="../www.facebook.com/plugins/like.php@href=http_3A_2F_2Fdailyweekend.com.ua_2F@p=1281&layout=standard&show_faces=false&width=450&action=like&colorscheme=light&height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowTransparency="true"></iframe> 
+
+											</div><!-- .entry-content -->
+
+
+					<!-- <div class="entry-utility">
+						Эта запись была опубликована в рубрике <a href="http://dailyweekend.com.ua/?cat=1" title="Просмотреть все записи в Новости" rel="category">Новости</a>. Добавить в закладки <a href="http://dailyweekend.com.ua/?p=1281" title="Постоянная ссылка на Mustache (усы) skateboards" rel="bookmark">ссылку</a>.											</div> --><!-- .entry-utility -->
+				</div><!-- #post-## -->
+
+				<!-- <div id="nav-below" class="navigation">
+					<div class="nav-previous"><a href="http://dailyweekend.com.ua/?p=1247" rel="prev"><span class="meta-nav">&larr;</span> Отчет с Yard Sale 2 (фото+видео)</a></div>
+					<div class="nav-next"><a href="http://dailyweekend.com.ua/?p=1290" rel="next">Миша Тевкун в WERUSH skateboards! <span class="meta-nav">&rarr;</span></a></div>
+				</div> --><!-- #nav-below --><br>
+
+				
+
+
+			<div id="comments">
+
+
+			<h3 id="comments-title">14 в ответ на <em>Mustache (усы) skateboards</em>:</h3>
+
+
+			<ol class="commentlist">
+					<li class="comment even thread-even depth-1" id="li-comment-2133">
+		<div id="comment-2133">
+		<div class="comment-author vcard">
+			<img alt='' src='../1.gravatar.com/avatar/f12f5947caa7033cb93657d080f38f01@s=40&d=http_253A_252F_252F1.gravatar.com_252Favatar_252Fad516503a11cd5ca435acc9bb6523536_253Fs_253D40&r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">pacan</cite> <span class="says">пишет:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="@p=1281#comment-2133">
+			24/08/2011 в 20:33</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>круто,очень!<br />
+где делаются?</p>
+</div>
+
+		<div class="reply">
+			<a rel='nofollow' class='comment-reply-link' href='@p=1281&replytocom=2133#respond' onclick='return addComment.moveForm("comment-2133", "2133", "respond", "1281")'>Ответить</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-2134">
+		<div id="comment-2134">
+		<div class="comment-author vcard">
+			<img alt='' src='../1.gravatar.com/avatar/db8d60cd9b6766c15d6d8b46038b9f72@s=40&d=http_253A_252F_252F1.gravatar.com_252Favatar_252Fad516503a11cd5ca435acc9bb6523536_253Fs_253D40&r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">david grigoryan</cite> <span class="says">пишет:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="@p=1281#comment-2134">
+			24/08/2011 в 21:07</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>pozdravl9y reb9ta, rad za vas!<br />
+grafika horosha9 toje!!1</p>
+</div>
+
+		<div class="reply">
+			<a rel='nofollow' class='comment-reply-link' href='@p=1281&replytocom=2134#respond' onclick='return addComment.moveForm("comment-2134", "2134", "respond", "1281")'>Ответить</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment even thread-even depth-1" id="li-comment-2138">
+		<div id="comment-2138">
+		<div class="comment-author vcard">
+			<img alt='' src='../1.gravatar.com/avatar/775f094995bccd1d30b4960effa2fc79@s=40&d=http_253A_252F_252F1.gravatar.com_252Favatar_252Fad516503a11cd5ca435acc9bb6523536_253Fs_253D40&r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">K</cite> <span class="says">пишет:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="@p=1281#comment-2138">
+			24/08/2011 в 23:09</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>новый бренд это хорошо, но тема с усами &#8211; бредовая</p>
+</div>
+
+		<div class="reply">
+			<a rel='nofollow' class='comment-reply-link' href='@p=1281&replytocom=2138#respond' onclick='return addComment.moveForm("comment-2138", "2138", "respond", "1281")'>Ответить</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-2139">
+		<div id="comment-2139">
+		<div class="comment-author vcard">
+			<img alt='' src='../0.gravatar.com/avatar/8a5ab17542c182d4189f3fd2cb561352@s=40&d=http_253A_252F_252F0.gravatar.com_252Favatar_252Fad516503a11cd5ca435acc9bb6523536_253Fs_253D40&r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">BRO</cite> <span class="says">пишет:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="@p=1281#comment-2139">
+			24/08/2011 в 23:14</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>usa</p>
+</div>
+
+		<div class="reply">
+			<a rel='nofollow' class='comment-reply-link' href='@p=1281&replytocom=2139#respond' onclick='return addComment.moveForm("comment-2139", "2139", "respond", "1281")'>Ответить</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment even thread-even depth-1" id="li-comment-2141">
+		<div id="comment-2141">
+		<div class="comment-author vcard">
+			<img alt='' src='../0.gravatar.com/avatar/8a5ab17542c182d4189f3fd2cb561352@s=40&d=http_253A_252F_252F0.gravatar.com_252Favatar_252Fad516503a11cd5ca435acc9bb6523536_253Fs_253D40&r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">BRO</cite> <span class="says">пишет:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="@p=1281#comment-2141">
+			24/08/2011 в 23:17</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>брат, тема у каждого своя, но ориентируясь на личностные уподобания и нравы &#8211; мы не могли оставить подобное бе должного внимания&#8230;..поэтому думаю к чему прилогают не малый труд, должжно быть почтено&#8230;&#8230;.<br />
+пис.</p>
+</div>
+
+		<div class="reply">
+			<a rel='nofollow' class='comment-reply-link' href='@p=1281&replytocom=2141#respond' onclick='return addComment.moveForm("comment-2141", "2141", "respond", "1281")'>Ответить</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-2142">
+		<div id="comment-2142">
+		<div class="comment-author vcard">
+			<img alt='' src='../1.gravatar.com/avatar/34942e26957b166832f7f384a7094420@s=40&d=http_253A_252F_252F1.gravatar.com_252Favatar_252Fad516503a11cd5ca435acc9bb6523536_253Fs_253D40&r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">Тарас</cite> <span class="says">пишет:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="@p=1281#comment-2142">
+			24/08/2011 в 23:25</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>Вау! Очень круто! Произвело впечатление. Мои поздравления. Уууууусыыыы))</p>
+</div>
+
+		<div class="reply">
+			<a rel='nofollow' class='comment-reply-link' href='@p=1281&replytocom=2142#respond' onclick='return addComment.moveForm("comment-2142", "2142", "respond", "1281")'>Ответить</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment even thread-even depth-1" id="li-comment-2146">
+		<div id="comment-2146">
+		<div class="comment-author vcard">
+			<img alt='' src='../1.gravatar.com/avatar/f717431126758effbf0da3e2b1342ea7@s=40&d=http_253A_252F_252F1.gravatar.com_252Favatar_252Fad516503a11cd5ca435acc9bb6523536_253Fs_253D40&r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">тигр</cite> <span class="says">пишет:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="@p=1281#comment-2146">
+			25/08/2011 в 9:32</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>мое мнение что по графике самые удачные доски вітчізняного виробництва надеюсь качество будет соответсвующее!</p>
+<p>какая стоимость на доски и колеса?</p>
+<p>п.с. очень рад за индустрию!!!!!</p>
+</div>
+
+		<div class="reply">
+			<a rel='nofollow' class='comment-reply-link' href='@p=1281&replytocom=2146#respond' onclick='return addComment.moveForm("comment-2146", "2146", "respond", "1281")'>Ответить</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-2148">
+		<div id="comment-2148">
+		<div class="comment-author vcard">
+			<img alt='' src='../0.gravatar.com/avatar/8a5ab17542c182d4189f3fd2cb561352@s=40&d=http_253A_252F_252F0.gravatar.com_252Favatar_252Fad516503a11cd5ca435acc9bb6523536_253Fs_253D40&r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">Dima</cite> <span class="says">пишет:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="@p=1281#comment-2148">
+			25/08/2011 в 10:18</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>Подписываемся и созерцаем цены))<br />
+<a href="../vkontakte.ru/mustache_skateboards">http://vkontakte.ru/mustache_skateboards</a></p>
+</div>
+
+		<div class="reply">
+			<a rel='nofollow' class='comment-reply-link' href='@p=1281&replytocom=2148#respond' onclick='return addComment.moveForm("comment-2148", "2148", "respond", "1281")'>Ответить</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment even thread-even depth-1" id="li-comment-2149">
+		<div id="comment-2149">
+		<div class="comment-author vcard">
+			<img alt='' src='../1.gravatar.com/avatar/bcdef3516ebe58a8f860f7c0c8c316af@s=40&d=http_253A_252F_252F1.gravatar.com_252Favatar_252Fad516503a11cd5ca435acc9bb6523536_253Fs_253D40&r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">sk8</cite> <span class="says">пишет:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="@p=1281#comment-2149">
+			25/08/2011 в 10:48</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>очень крутые доски, реально порадовали</p>
+</div>
+
+		<div class="reply">
+			<a rel='nofollow' class='comment-reply-link' href='#respond' onclick='return addComment.moveForm("comment-2149", "2149", "respond", "1281")'>Ответить</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-2281">
+		<div id="comment-2281">
+		<div class="comment-author vcard">
+			<img alt='' src='../1.gravatar.com/avatar/7929b4288c3dbc0f1df75f3ece46cd53@s=40&d=http_253A_252F_252F1.gravatar.com_252Favatar_252Fad516503a11cd5ca435acc9bb6523536_253Fs_253D40&r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">sk84life</cite> <span class="says">пишет:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="@p=1281#comment-2281">
+			01/09/2011 в 17:32</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>Неплохие доски все нравится  пока нежалуюсь =)</p>
+</div>
+
+		<div class="reply">
+			<a rel='nofollow' class='comment-reply-link' href='@p=1281&replytocom=2281#respond' onclick='return addComment.moveForm("comment-2281", "2281", "respond", "1281")'>Ответить</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment even thread-even depth-1" id="li-comment-2282">
+		<div id="comment-2282">
+		<div class="comment-author vcard">
+			<img alt='' src='../1.gravatar.com/avatar/3276d440eba8beaba46d6c6eb640aa45@s=40&d=http_253A_252F_252F1.gravatar.com_252Favatar_252Fad516503a11cd5ca435acc9bb6523536_253Fs_253D40&r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">Александр</cite> <span class="says">пишет:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="@p=1281#comment-2282">
+			01/09/2011 в 18:28</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>Всем будем рекламировать УСЫЫЫЫЫЫЫЫ =)</p>
+</div>
+
+		<div class="reply">
+			<a rel='nofollow' class='comment-reply-link' href='@p=1281&replytocom=2282#respond' onclick='return addComment.moveForm("comment-2282", "2282", "respond", "1281")'>Ответить</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-2298">
+		<div id="comment-2298">
+		<div class="comment-author vcard">
+			<img alt='' src='../0.gravatar.com/avatar/4fc6886503bc9c9c3e21ccde0e0427ef@s=40&d=http_253A_252F_252F0.gravatar.com_252Favatar_252Fad516503a11cd5ca435acc9bb6523536_253Fs_253D40&r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">Кирило</cite> <span class="says">пишет:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="@p=1281#comment-2298">
+			03/09/2011 в 6:11</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>Почему о рождении нового украинского скейтборд бренда (!) пишут только на этом сайте, а на других укр. скейт сайтах ни словечка?</p>
+</div>
+
+		<div class="reply">
+			<a rel='nofollow' class='comment-reply-link' href='@p=1281&replytocom=2298#respond' onclick='return addComment.moveForm("comment-2298", "2298", "respond", "1281")'>Ответить</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment even thread-even depth-1" id="li-comment-2304">
+		<div id="comment-2304">
+		<div class="comment-author vcard">
+			<img alt='' src='../1.gravatar.com/avatar/1b8af5f2896117075b5e9838c0b052b3@s=40&d=http_253A_252F_252F1.gravatar.com_252Favatar_252Fad516503a11cd5ca435acc9bb6523536_253Fs_253D40&r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">Амалик</cite> <span class="says">пишет:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="@p=1281#comment-2304">
+			03/09/2011 в 16:39</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>Нимагу понять почему нигде не указана кто делал эту очаровательную графику.бля обидно немного (</p>
+</div>
+
+		<div class="reply">
+			<a rel='nofollow' class='comment-reply-link' href='@p=1281&replytocom=2304#respond' onclick='return addComment.moveForm("comment-2304", "2304", "respond", "1281")'>Ответить</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-3443">
+		<div id="comment-3443">
+		<div class="comment-author vcard">
+			<img alt='' src='../1.gravatar.com/avatar/bd65d61f0e1f373c6bd1eb4e57e3b8c2@s=40&d=http_253A_252F_252F1.gravatar.com_252Favatar_252Fad516503a11cd5ca435acc9bb6523536_253Fs_253D40&r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">йа</cite> <span class="says">пишет:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="@p=1281#comment-3443">
+			15/10/2011 в 20:31</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>у меня как на 3 картинке сверху))<br />
+дэка бомба</p>
+</div>
+
+		<div class="reply">
+			<a rel='nofollow' class='comment-reply-link' href='@p=1281&replytocom=3443#respond' onclick='return addComment.moveForm("comment-3443", "3443", "respond", "1281")'>Ответить</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+			</ol>
+
+
+
+								<div id="respond">
+				<h3 id="reply-title">Ответить на <a href="#comment-2149">sk8</a> <small><a rel="nofollow" id="cancel-comment-reply-link" href="@p=1281#respond">Отмена ответа</a></small></h3>
+									<form action="http://dailyweekend.com.ua/wp-comments-post.php" method="post" id="commentform">
+																			<p class="comment-notes">Ваш email не будет опубликован. Обязательные поля отмечены <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Имя</label> <span class="required">*</span><input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">E-mail</label> <span class="required">*</span><input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Сайт</label><input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Комментарий</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">Вы можете использовать это <abbr title="HyperText Markup Language">HTML</abbr>теги и атрибуты:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Оставить комментарий" />
+							<input type='hidden' name='comment_post_ID' value='1281' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='2149' />
+						</p>
+											</form>
+							</div><!-- #respond -->
+						
+</div><!-- #comments -->
+<!-- <div id="fb-root"></div><!--ipt src="http://connect.facebook.net/en_US/all.js#appId=APP_ID&amp;xfbml=1"></scri--><fb:comments href="http://dailyweekend.com.ua/?p=1281" num_posts="5" width="620"></fb:comments>  -->
+
+<!-- <fb:comments canpost="false" showform="false" xid="7209" class="  fb_iframe_widget"> <span><iframe scrolling="no" id="f1c96c174cbb8ba" name="f2bf8c4cee600e" style="border: medium none; overflow: hidden; height: 163px; width: 550px;" class="fb_ltr" src="http://dailyweekend.com.ua/?p=1281"></iframe></span></fb:comments> -->
+
+<a href="../www.facebook.com/pages/Peace-Date/173200649373557" target="_blank"><div id="right_r"></div></a><br>
+			<a href="../woodvruv.blogspot.com/default.htm" target="_blank"><div id="right_r2"></div></a>
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<!-- <ul class="xoxo"> -->
+
+	
+			<!-- <li id="search" class="widget-container widget_search">
+				<form role="search" method="get" id="searchform" action="http://dailyweekend.com.ua/" >
+	<div><label class="screen-reader-text" for="s">Найти:</label>
+	<input type="text" value="" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="Найти" />
+	</div>
+	</form>			</li>
+
+			<li id="archives" class="widget-container">
+				<h3 class="widget-title">Архивы</h3>
+				<ul>
+						<li><a href='http://dailyweekend.com.ua/?m=201203' title='Март 2012'>Март 2012</a></li>
+	<li><a href='http://dailyweekend.com.ua/?m=201202' title='Февраль 2012'>Февраль 2012</a></li>
+	<li><a href='http://dailyweekend.com.ua/?m=201201' title='Январь 2012'>Январь 2012</a></li>
+	<li><a href='http://dailyweekend.com.ua/?m=201112' title='Декабрь 2011'>Декабрь 2011</a></li>
+	<li><a href='http://dailyweekend.com.ua/?m=201111' title='Ноябрь 2011'>Ноябрь 2011</a></li>
+	<li><a href='http://dailyweekend.com.ua/?m=201110' title='Октябрь 2011'>Октябрь 2011</a></li>
+	<li><a href='http://dailyweekend.com.ua/?m=201109' title='Сентябрь 2011'>Сентябрь 2011</a></li>
+	<li><a href='http://dailyweekend.com.ua/?m=201108' title='Август 2011'>Август 2011</a></li>
+	<li><a href='http://dailyweekend.com.ua/?m=201107' title='Июль 2011'>Июль 2011</a></li>
+	<li><a href='http://dailyweekend.com.ua/?m=201106' title='Июнь 2011'>Июнь 2011</a></li>
+	<li><a href='http://dailyweekend.com.ua/?m=201105' title='Май 2011'>Май 2011</a></li>
+	<li><a href='http://dailyweekend.com.ua/?m=201104' title='Апрель 2011'>Апрель 2011</a></li>
+	<li><a href='http://dailyweekend.com.ua/?m=201103' title='Март 2011'>Март 2011</a></li>
+				</ul>
+			</li>
+
+			<li id="meta" class="widget-container">
+				<h3 class="widget-title">Управление</h3>
+				<ul>
+										<li><a href="http://dailyweekend.com.ua/wp-login.php">Вход</a></li>
+									</ul>
+			</li> -->
+
+					<!-- </ul> -->
+		</div><!-- #primary .widget-area -->
+
+
+
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<!-- <div id="site-info">
+				<a href="http://dailyweekend.com.ua/" title="Daily Weekend" rel="home">
+					Daily Weekend				</a>
+			</div><!-- #site-info -->
+
+			<!--<div id="site-generator">
+								
+				<a href="http://mywordpress.ru/"
+						title="Семантическая Персональная Платформа Публикаций" rel="generator">
+					Работает на русской сборке WordPress.				</a>
+			</div> --><!-- #site-generator -->
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+</body>
+</html>

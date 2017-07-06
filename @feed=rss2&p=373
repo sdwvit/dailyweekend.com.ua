@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="../purl.org/rss/1.0/modules/content/default.htm"
+	xmlns:dc="../purl.org/dc/elements/1.1/default.htm"
+	xmlns:atom="../www.w3.org/2005/Atom"
+	xmlns:sy="../purl.org/rss/1.0/modules/syndication/default.htm"
+		>
+<channel>
+	<title>Комментарии на: The Twins</title>
+	<atom:link href="@feed=rss2&p=373" rel="self" type="application/rss+xml" />
+	<link>@p=373</link>
+	<description>Ukrainian online journal about skateboarders life</description>
+	<lastBuildDate>Wed, 21 Mar 2012 21:50:34 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>../wordpress.org/@v=3.0.5</generator>
+	<item>
+		<title>От: Nza)</title>
+		<link>@p=373#comment-101</link>
+		<dc:creator>Nza)</dc:creator>
+		<pubDate>Sat, 23 Apr 2011 17:26:46 +0000</pubDate>
+		<guid isPermaLink="false">@p=373#comment-101</guid>
+		<description>gawesome/ net slov</description>
+		<content:encoded><![CDATA[<p>gawesome/ net slov</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: Nza)</title>
+		<link>@p=373#comment-100</link>
+		<dc:creator>Nza)</dc:creator>
+		<pubDate>Sat, 23 Apr 2011 17:26:22 +0000</pubDate>
+		<guid isPermaLink="false">@p=373#comment-100</guid>
+		<description>gawesome, net slov</description>
+		<content:encoded><![CDATA[<p>gawesome, net slov</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: Влад</title>
+		<link>@p=373#comment-98</link>
+		<dc:creator>Влад</dc:creator>
+		<pubDate>Sat, 23 Apr 2011 10:06:00 +0000</pubDate>
+		<guid isPermaLink="false">@p=373#comment-98</guid>
+		<description>ахахаха))) блин, я когда то под эту песню монтаж делал)))</description>
+		<content:encoded><![CDATA[<p>ахахаха))) блин, я когда то под эту песню монтаж делал)))</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

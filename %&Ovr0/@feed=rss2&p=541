@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="../purl.org/rss/1.0/modules/content/default.htm"
+	xmlns:dc="../purl.org/dc/elements/1.1/default.htm"
+	xmlns:atom="../www.w3.org/2005/Atom"
+	xmlns:sy="../purl.org/rss/1.0/modules/syndication/default.htm"
+		>
+<channel>
+	<title>Комментарии на: Видео школа скейтбординга с Тарасом 2 серия</title>
+	<atom:link href="@feed=rss2&p=541" rel="self" type="application/rss+xml" />
+	<link>@p=541</link>
+	<description>Ukrainian online journal about skateboarders life</description>
+	<lastBuildDate>Wed, 21 Mar 2012 21:50:34 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>../wordpress.org/@v=3.0.5</generator>
+	<item>
+		<title>От: Лиса</title>
+		<link>@p=541#comment-132</link>
+		<dc:creator>Лиса</dc:creator>
+		<pubDate>Sat, 14 May 2011 05:50:19 +0000</pubDate>
+		<guid isPermaLink="false">@p=541#comment-132</guid>
+		<description>не зря тигры отличаются тугодумием.</description>
+		<content:encoded><![CDATA[<p>не зря тигры отличаются тугодумием.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: тигр</title>
+		<link>@p=541#comment-130</link>
+		<dc:creator>тигр</dc:creator>
+		<pubDate>Fri, 13 May 2011 21:54:05 +0000</pubDate>
+		<guid isPermaLink="false">@p=541#comment-130</guid>
+		<description>тигр вас не понимает и ваши коменты</description>
+		<content:encoded><![CDATA[<p>тигр вас не понимает и ваши коменты</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: Рысь</title>
+		<link>@p=541#comment-127</link>
+		<dc:creator>Рысь</dc:creator>
+		<pubDate>Thu, 12 May 2011 22:45:09 +0000</pubDate>
+		<guid isPermaLink="false">@p=541#comment-127</guid>
+		<description>Рысь советует смотреть кикфлип от Климы. 
+Рысь не понимает видео школу. Рысь в печали.</description>
+		<content:encoded><![CDATA[<p>Рысь советует смотреть кикфлип от Климы.<br />
+Рысь не понимает видео школу. Рысь в печали.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: зибров</title>
+		<link>@p=541#comment-126</link>
+		<dc:creator>зибров</dc:creator>
+		<pubDate>Thu, 12 May 2011 22:02:21 +0000</pubDate>
+		<guid isPermaLink="false">@p=541#comment-126</guid>
+		<description>жду кикфлип))</description>
+		<content:encoded><![CDATA[<p>жду кикфлип))</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

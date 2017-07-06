@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="../purl.org/rss/1.0/modules/content/default.htm"
+	xmlns:dc="../purl.org/dc/elements/1.1/default.htm"
+	xmlns:atom="../www.w3.org/2005/Atom"
+	xmlns:sy="../purl.org/rss/1.0/modules/syndication/default.htm"
+		>
+<channel>
+	<title>Комментарии на: Реклама украинских досок QD</title>
+	<atom:link href="@feed=rss2&p=1833" rel="self" type="application/rss+xml" />
+	<link>@p=1833</link>
+	<description>Ukrainian online journal about skateboarders life</description>
+	<lastBuildDate>Wed, 21 Mar 2012 21:50:34 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>../wordpress.org/@v=3.0.5</generator>
+	<item>
+		<title>От: Лена</title>
+		<link>@p=1833#comment-6274</link>
+		<dc:creator>Лена</dc:creator>
+		<pubDate>Sun, 18 Dec 2011 19:04:34 +0000</pubDate>
+		<guid isPermaLink="false">@p=1833#comment-6274</guid>
+		<description>Я Флипа увидела!!!))))
+Сборка видео поражает своей мягкостью - это отлично!
+Но мне кажется что должно быть както порезвее - этож рекламма)
+Саш, извени за критику)))</description>
+		<content:encoded><![CDATA[<p>Я Флипа увидела!!!))))<br />
+Сборка видео поражает своей мягкостью &#8211; это отлично!<br />
+Но мне кажется что должно быть както порезвее &#8211; этож рекламма)<br />
+Саш, извени за критику)))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: костя</title>
+		<link>@p=1833#comment-6184</link>
+		<dc:creator>костя</dc:creator>
+		<pubDate>Sat, 17 Dec 2011 19:22:38 +0000</pubDate>
+		<guid isPermaLink="false">@p=1833#comment-6184</guid>
+		<description>повезло ребятам со спотом</description>
+		<content:encoded><![CDATA[<p>повезло ребятам со спотом</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: DaBa</title>
+		<link>@p=1833#comment-6024</link>
+		<dc:creator>DaBa</dc:creator>
+		<pubDate>Fri, 16 Dec 2011 23:57:57 +0000</pubDate>
+		<guid isPermaLink="false">@p=1833#comment-6024</guid>
+		<description>respect i yvajyha!</description>
+		<content:encoded><![CDATA[<p>respect i yvajyha!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

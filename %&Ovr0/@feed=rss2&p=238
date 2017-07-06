@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="../purl.org/rss/1.0/modules/content/default.htm"
+	xmlns:dc="../purl.org/dc/elements/1.1/default.htm"
+	xmlns:atom="../www.w3.org/2005/Atom"
+	xmlns:sy="../purl.org/rss/1.0/modules/syndication/default.htm"
+		>
+<channel>
+	<title>Комментарии на: Фингерборд контест от Stuff</title>
+	<atom:link href="@feed=rss2&p=238" rel="self" type="application/rss+xml" />
+	<link>@p=238</link>
+	<description>Ukrainian online journal about skateboarders life</description>
+	<lastBuildDate>Wed, 21 Mar 2012 21:50:34 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>../wordpress.org/@v=3.0.5</generator>
+	<item>
+		<title>От: Raus</title>
+		<link>@p=238#comment-26</link>
+		<dc:creator>Raus</dc:creator>
+		<pubDate>Sun, 10 Apr 2011 17:23:42 +0000</pubDate>
+		<guid isPermaLink="false">@p=238#comment-26</guid>
+		<description>а какие именно призы будут</description>
+		<content:encoded><![CDATA[<p>а какие именно призы будут</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: Anton</title>
+		<link>@p=238#comment-23</link>
+		<dc:creator>Anton</dc:creator>
+		<pubDate>Sun, 10 Apr 2011 10:15:21 +0000</pubDate>
+		<guid isPermaLink="false">@p=238#comment-23</guid>
+		<description>Буду!</description>
+		<content:encoded><![CDATA[<p>Буду!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: Kosha</title>
+		<link>@p=238#comment-22</link>
+		<dc:creator>Kosha</dc:creator>
+		<pubDate>Sun, 10 Apr 2011 09:35:49 +0000</pubDate>
+		<guid isPermaLink="false">@p=238#comment-22</guid>
+		<description>сделайте лучше в Днепре! в Киеве уже был...</description>
+		<content:encoded><![CDATA[<p>сделайте лучше в Днепре! в Киеве уже был&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

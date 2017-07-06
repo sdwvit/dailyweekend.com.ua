@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="../purl.org/rss/1.0/modules/content/default.htm"
+	xmlns:dc="../purl.org/dc/elements/1.1/default.htm"
+	xmlns:atom="../www.w3.org/2005/Atom"
+	xmlns:sy="../purl.org/rss/1.0/modules/syndication/default.htm"
+		>
+<channel>
+	<title>Комментарии на: Ярослав Крывко &#8211; осенний монтаж</title>
+	<atom:link href="@feed=rss2&p=1880" rel="self" type="application/rss+xml" />
+	<link>@p=1880</link>
+	<description>Ukrainian online journal about skateboarders life</description>
+	<lastBuildDate>Wed, 21 Mar 2012 21:50:34 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>../wordpress.org/@v=3.0.5</generator>
+	<item>
+		<title>От: Павленко Максим</title>
+		<link>@p=1880#comment-6826</link>
+		<dc:creator>Павленко Максим</dc:creator>
+		<pubDate>Thu, 29 Dec 2011 16:42:50 +0000</pubDate>
+		<guid isPermaLink="false">@p=1880#comment-6826</guid>
+		<description>мне тож понравилось</description>
+		<content:encoded><![CDATA[<p>мне тож понравилось</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: Кондрат</title>
+		<link>@p=1880#comment-6679</link>
+		<dc:creator>Кондрат</dc:creator>
+		<pubDate>Sat, 24 Dec 2011 20:19:02 +0000</pubDate>
+		<guid isPermaLink="false">@p=1880#comment-6679</guid>
+		<description>Ярик крутой!</description>
+		<content:encoded><![CDATA[<p>Ярик крутой!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: арёль</title>
+		<link>@p=1880#comment-6677</link>
+		<dc:creator>арёль</dc:creator>
+		<pubDate>Sat, 24 Dec 2011 18:01:45 +0000</pubDate>
+		<guid isPermaLink="false">@p=1880#comment-6677</guid>
+		<description>понравился монтаж и сйомка!</description>
+		<content:encoded><![CDATA[<p>понравился монтаж и сйомка!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: тигр</title>
+		<link>@p=1880#comment-6671</link>
+		<dc:creator>тигр</dc:creator>
+		<pubDate>Sat, 24 Dec 2011 13:03:29 +0000</pubDate>
+		<guid isPermaLink="false">@p=1880#comment-6671</guid>
+		<description>супер! львов молодцы!</description>
+		<content:encoded><![CDATA[<p>супер! львов молодцы!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

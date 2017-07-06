@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="../purl.org/rss/1.0/modules/content/default.htm"
+	xmlns:dc="../purl.org/dc/elements/1.1/default.htm"
+	xmlns:atom="../www.w3.org/2005/Atom"
+	xmlns:sy="../purl.org/rss/1.0/modules/syndication/default.htm"
+		>
+<channel>
+	<title>Комментарии на: Daily Weekend закрывается</title>
+	<atom:link href="@feed=rss2&p=2134" rel="self" type="application/rss+xml" />
+	<link>@p=2134</link>
+	<description>Ukrainian online journal about skateboarders life</description>
+	<lastBuildDate>Wed, 21 Mar 2012 21:50:34 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>../wordpress.org/@v=3.0.5</generator>
+	<item>
+		<title>От: ПРУЖОПА</title>
+		<link>@p=2134#comment-10058</link>
+		<dc:creator>ПРУЖОПА</dc:creator>
+		<pubDate>Wed, 21 Mar 2012 21:50:34 +0000</pubDate>
+		<guid isPermaLink="false">@p=2134#comment-10058</guid>
+		<description>пришло время перемен уважаемые вонючие панки !!!!!</description>
+		<content:encoded><![CDATA[<p>пришло время перемен уважаемые вонючие панки !!!!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: 333</title>
+		<link>@p=2134#comment-10002</link>
+		<dc:creator>333</dc:creator>
+		<pubDate>Wed, 21 Mar 2012 14:15:05 +0000</pubDate>
+		<guid isPermaLink="false">@p=2134#comment-10002</guid>
+		<description>почему так ? надоело? или проблемы с хостингом?</description>
+		<content:encoded><![CDATA[<p>почему так ? надоело? или проблемы с хостингом?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: Дикий</title>
+		<link>@p=2134#comment-9982</link>
+		<dc:creator>Дикий</dc:creator>
+		<pubDate>Wed, 21 Mar 2012 12:36:09 +0000</pubDate>
+		<guid isPermaLink="false">@p=2134#comment-9982</guid>
+		<description>Дякую Daily за цікаві статті. Це був сайт з найчастіше обновлюваною інформацією, а також найсвіжіша.  Чекаю нового проекту.</description>
+		<content:encoded><![CDATA[<p>Дякую Daily за цікаві статті. Це був сайт з найчастіше обновлюваною інформацією, а також найсвіжіша.  Чекаю нового проекту.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: балбес</title>
+		<link>@p=2134#comment-9973</link>
+		<dc:creator>балбес</dc:creator>
+		<pubDate>Wed, 21 Mar 2012 11:22:53 +0000</pubDate>
+		<guid isPermaLink="false">@p=2134#comment-9973</guid>
+		<description>шаную! повага!
+сподіваюсь новий проект внесе значні зміни в український скейтбордінг</description>
+		<content:encoded><![CDATA[<p>шаную! повага!<br />
+сподіваюсь новий проект внесе значні зміни в український скейтбордінг</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: fin_21</title>
+		<link>@p=2134#comment-9972</link>
+		<dc:creator>fin_21</dc:creator>
+		<pubDate>Wed, 21 Mar 2012 11:19:48 +0000</pubDate>
+		<guid isPermaLink="false">@p=2134#comment-9972</guid>
+		<description>очень жаль, очень хороший сайт был)</description>
+		<content:encoded><![CDATA[<p>очень жаль, очень хороший сайт был)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: DA</title>
+		<link>@p=2134#comment-9968</link>
+		<dc:creator>DA</dc:creator>
+		<pubDate>Wed, 21 Mar 2012 10:57:23 +0000</pubDate>
+		<guid isPermaLink="false">@p=2134#comment-9968</guid>
+		<description>Спасибо, друзья!</description>
+		<content:encoded><![CDATA[<p>Спасибо, друзья!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="../purl.org/rss/1.0/modules/content/default.htm"
+	xmlns:dc="../purl.org/dc/elements/1.1/default.htm"
+	xmlns:atom="../www.w3.org/2005/Atom"
+	xmlns:sy="../purl.org/rss/1.0/modules/syndication/default.htm"
+		>
+<channel>
+	<title>Комментарии на: Black &amp; White Женя Кюне</title>
+	<atom:link href="@feed=rss2&p=1987" rel="self" type="application/rss+xml" />
+	<link>@p=1987</link>
+	<description>Ukrainian online journal about skateboarders life</description>
+	<lastBuildDate>Wed, 21 Mar 2012 21:50:34 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>../wordpress.org/@v=3.0.5</generator>
+	<item>
+		<title>От: g</title>
+		<link>@p=1987#comment-7689</link>
+		<dc:creator>g</dc:creator>
+		<pubDate>Wed, 25 Jan 2012 13:23:56 +0000</pubDate>
+		<guid isPermaLink="false">@p=1987#comment-7689</guid>
+		<description>очень крутой</description>
+		<content:encoded><![CDATA[<p>очень крутой</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: адвакат</title>
+		<link>@p=1987#comment-7688</link>
+		<dc:creator>адвакат</dc:creator>
+		<pubDate>Wed, 25 Jan 2012 12:19:14 +0000</pubDate>
+		<guid isPermaLink="false">@p=1987#comment-7688</guid>
+		<description>фак е!</description>
+		<content:encoded><![CDATA[<p>фак е!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: ой</title>
+		<link>@p=1987#comment-7684</link>
+		<dc:creator>ой</dc:creator>
+		<pubDate>Wed, 25 Jan 2012 10:56:47 +0000</pubDate>
+		<guid isPermaLink="false">@p=1987#comment-7684</guid>
+		<description>фейки блант жесткий</description>
+		<content:encoded><![CDATA[<p>фейки блант жесткий</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

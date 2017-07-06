@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="../purl.org/rss/1.0/modules/content/default.htm"
+	xmlns:dc="../purl.org/dc/elements/1.1/default.htm"
+	xmlns:atom="../www.w3.org/2005/Atom"
+	xmlns:sy="../purl.org/rss/1.0/modules/syndication/default.htm"
+		>
+<channel>
+	<title>Комментарии на: Одесса Game of S.K.A.T.E. &#8211; S.F.N.</title>
+	<atom:link href="@feed=rss2&p=1244" rel="self" type="application/rss+xml" />
+	<link>@p=1244</link>
+	<description>Ukrainian online journal about skateboarders life</description>
+	<lastBuildDate>Wed, 21 Mar 2012 21:50:34 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>../wordpress.org/@v=3.0.5</generator>
+	<item>
+		<title>От: просто антон</title>
+		<link>@p=1244#comment-2219</link>
+		<dc:creator>просто антон</dc:creator>
+		<pubDate>Sat, 27 Aug 2011 15:03:42 +0000</pubDate>
+		<guid isPermaLink="false">@p=1244#comment-2219</guid>
+		<description>да,действительно круто.</description>
+		<content:encoded><![CDATA[<p>да,действительно круто.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: Артур Коновалов</title>
+		<link>@p=1244#comment-2217</link>
+		<dc:creator>Артур Коновалов</dc:creator>
+		<pubDate>Sat, 27 Aug 2011 12:39:20 +0000</pubDate>
+		<guid isPermaLink="false">@p=1244#comment-2217</guid>
+		<description>Крутой видео отчёт делайте таково побольше и пожалуста подскожите трек который в этом видео)</description>
+		<content:encoded><![CDATA[<p>Крутой видео отчёт делайте таково побольше и пожалуста подскожите трек который в этом видео)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

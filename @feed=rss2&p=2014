@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="../purl.org/rss/1.0/modules/content/default.htm"
+	xmlns:dc="../purl.org/dc/elements/1.1/default.htm"
+	xmlns:atom="../www.w3.org/2005/Atom"
+	xmlns:sy="../purl.org/rss/1.0/modules/syndication/default.htm"
+		>
+<channel>
+	<title>Комментарии на: Футболка от DELTA9</title>
+	<atom:link href="@feed=rss2&p=2014" rel="self" type="application/rss+xml" />
+	<link>@p=2014</link>
+	<description>Ukrainian online journal about skateboarders life</description>
+	<lastBuildDate>Wed, 21 Mar 2012 21:50:34 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>../wordpress.org/@v=3.0.5</generator>
+	<item>
+		<title>От: Коля Орлюк</title>
+		<link>@p=2014#comment-8519</link>
+		<dc:creator>Коля Орлюк</dc:creator>
+		<pubDate>Sat, 25 Feb 2012 18:46:22 +0000</pubDate>
+		<guid isPermaLink="false">@p=2014#comment-8519</guid>
+		<description>ядок)</description>
+		<content:encoded><![CDATA[<p>ядок)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: pffff</title>
+		<link>@p=2014#comment-7974</link>
+		<dc:creator>pffff</dc:creator>
+		<pubDate>Fri, 03 Feb 2012 22:40:53 +0000</pubDate>
+		<guid isPermaLink="false">@p=2014#comment-7974</guid>
+		<description>ни о чем</description>
+		<content:encoded><![CDATA[<p>ни о чем</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: Максим</title>
+		<link>@p=2014#comment-7968</link>
+		<dc:creator>Максим</dc:creator>
+		<pubDate>Fri, 03 Feb 2012 18:11:33 +0000</pubDate>
+		<guid isPermaLink="false">@p=2014#comment-7968</guid>
+		<description>Или сюда! http://vk.com/id59010475</description>
+		<content:encoded><![CDATA[<p>Или сюда! <a href="../vk.com/id59010475">../vk.com/id59010475</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: Максим</title>
+		<link>@p=2014#comment-7967</link>
+		<dc:creator>Максим</dc:creator>
+		<pubDate>Fri, 03 Feb 2012 18:09:44 +0000</pubDate>
+		<guid isPermaLink="false">@p=2014#comment-7967</guid>
+		<description>Пишите сюда! http://www.facebook.com/profile.php?id=100000030825865. 150 грн</description>
+		<content:encoded><![CDATA[<p>Пишите сюда! <a href="../www.facebook.com/profile.php@id=100000030825865">../www.facebook.com/profile.php@id=100000030825865</a>. 150 грн</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: Pro</title>
+		<link>@p=2014#comment-7964</link>
+		<dc:creator>Pro</dc:creator>
+		<pubDate>Fri, 03 Feb 2012 13:35:01 +0000</pubDate>
+		<guid isPermaLink="false">@p=2014#comment-7964</guid>
+		<description>где купить и цена?</description>
+		<content:encoded><![CDATA[<p>где купить и цена?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: ПРУЖОПА</title>
+		<link>@p=2014#comment-7947</link>
+		<dc:creator>ПРУЖОПА</dc:creator>
+		<pubDate>Thu, 02 Feb 2012 18:48:16 +0000</pubDate>
+		<guid isPermaLink="false">@p=2014#comment-7947</guid>
+		<description>гав!!!!!гав!!!</description>
+		<content:encoded><![CDATA[<p>гав!!!!!гав!!!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

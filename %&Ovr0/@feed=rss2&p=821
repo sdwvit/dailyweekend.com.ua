@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="../purl.org/rss/1.0/modules/content/default.htm"
+	xmlns:dc="../purl.org/dc/elements/1.1/default.htm"
+	xmlns:atom="../www.w3.org/2005/Atom"
+	xmlns:sy="../purl.org/rss/1.0/modules/syndication/default.htm"
+		>
+<channel>
+	<title>Комментарии на: Олег Кондратенко готовится к ЗНО</title>
+	<atom:link href="@feed=rss2&p=821" rel="self" type="application/rss+xml" />
+	<link>@p=821</link>
+	<description>Ukrainian online journal about skateboarders life</description>
+	<lastBuildDate>Wed, 21 Mar 2012 21:50:34 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>../wordpress.org/@v=3.0.5</generator>
+	<item>
+		<title>От: Вася</title>
+		<link>@p=821#comment-224</link>
+		<dc:creator>Вася</dc:creator>
+		<pubDate>Tue, 07 Jun 2011 10:10:18 +0000</pubDate>
+		<guid isPermaLink="false">@p=821#comment-224</guid>
+		<description>а где находиться етот спот?</description>
+		<content:encoded><![CDATA[<p>а где находиться етот спот?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: Макуха</title>
+		<link>@p=821#comment-222</link>
+		<dc:creator>Макуха</dc:creator>
+		<pubDate>Tue, 07 Jun 2011 07:22:33 +0000</pubDate>
+		<guid isPermaLink="false">@p=821#comment-222</guid>
+		<description>спот приятный)</description>
+		<content:encoded><![CDATA[<p>спот приятный)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: pacan</title>
+		<link>@p=821#comment-217</link>
+		<dc:creator>pacan</dc:creator>
+		<pubDate>Mon, 06 Jun 2011 19:10:19 +0000</pubDate>
+		<guid isPermaLink="false">@p=821#comment-217</guid>
+		<description>сейчас все так готовятся)</description>
+		<content:encoded><![CDATA[<p>сейчас все так готовятся)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: пружина</title>
+		<link>@p=821#comment-216</link>
+		<dc:creator>пружина</dc:creator>
+		<pubDate>Mon, 06 Jun 2011 11:01:57 +0000</pubDate>
+		<guid isPermaLink="false">@p=821#comment-216</guid>
+		<description>Рэкет красава.......................................</description>
+		<content:encoded><![CDATA[<p>Рэкет красава&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

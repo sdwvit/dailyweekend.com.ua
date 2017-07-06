@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="../purl.org/rss/1.0/modules/content/default.htm"
+	xmlns:dc="../purl.org/dc/elements/1.1/default.htm"
+	xmlns:atom="../www.w3.org/2005/Atom"
+	xmlns:sy="../purl.org/rss/1.0/modules/syndication/default.htm"
+		>
+<channel>
+	<title>Комментарии на: Новый белорусский монтаж</title>
+	<atom:link href="@feed=rss2&p=1984" rel="self" type="application/rss+xml" />
+	<link>@p=1984</link>
+	<description>Ukrainian online journal about skateboarders life</description>
+	<lastBuildDate>Wed, 21 Mar 2012 21:50:34 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>../wordpress.org/@v=3.0.5</generator>
+	<item>
+		<title>От: просто антон</title>
+		<link>@p=1984#comment-7724</link>
+		<dc:creator>просто антон</dc:creator>
+		<pubDate>Thu, 26 Jan 2012 20:25:49 +0000</pubDate>
+		<guid isPermaLink="false">@p=1984#comment-7724</guid>
+		<description>заебись валят</description>
+		<content:encoded><![CDATA[<p>заебись валят</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: Клим</title>
+		<link>@p=1984#comment-7697</link>
+		<dc:creator>Клим</dc:creator>
+		<pubDate>Wed, 25 Jan 2012 18:13:25 +0000</pubDate>
+		<guid isPermaLink="false">@p=1984#comment-7697</guid>
+		<description>Радуют!</description>
+		<content:encoded><![CDATA[<p>Радуют!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: витя</title>
+		<link>@p=1984#comment-7685</link>
+		<dc:creator>витя</dc:creator>
+		<pubDate>Wed, 25 Jan 2012 11:05:51 +0000</pubDate>
+		<guid isPermaLink="false">@p=1984#comment-7685</guid>
+		<description>Смотрел на одном дыхании!</description>
+		<content:encoded><![CDATA[<p>Смотрел на одном дыхании!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: DT</title>
+		<link>@p=1984#comment-7670</link>
+		<dc:creator>DT</dc:creator>
+		<pubDate>Tue, 24 Jan 2012 20:49:57 +0000</pubDate>
+		<guid isPermaLink="false">@p=1984#comment-7670</guid>
+		<description>Крутой видос, молодцы! Наконец что-то стоящее!</description>
+		<content:encoded><![CDATA[<p>Крутой видос, молодцы! Наконец что-то стоящее!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: Пашка</title>
+		<link>@p=1984#comment-7667</link>
+		<dc:creator>Пашка</dc:creator>
+		<pubDate>Tue, 24 Jan 2012 18:34:47 +0000</pubDate>
+		<guid isPermaLink="false">@p=1984#comment-7667</guid>
+		<description>молодцы, очень хорошее видео.
+все на писдейте)</description>
+		<content:encoded><![CDATA[<p>молодцы, очень хорошее видео.<br />
+все на писдейте)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: kozlovgleb</title>
+		<link>@p=1984#comment-7666</link>
+		<dc:creator>kozlovgleb</dc:creator>
+		<pubDate>Tue, 24 Jan 2012 18:18:19 +0000</pubDate>
+		<guid isPermaLink="false">@p=1984#comment-7666</guid>
+		<description>krasavchiki voooobwe</description>
+		<content:encoded><![CDATA[<p>krasavchiki voooobwe</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

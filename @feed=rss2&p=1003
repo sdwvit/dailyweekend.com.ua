@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="../purl.org/rss/1.0/modules/content/default.htm"
+	xmlns:dc="../purl.org/dc/elements/1.1/default.htm"
+	xmlns:atom="../www.w3.org/2005/Atom"
+	xmlns:sy="../purl.org/rss/1.0/modules/syndication/default.htm"
+		>
+<channel>
+	<title>Комментарии на: Тарас Павец Винницкий скейтпарк</title>
+	<atom:link href="@feed=rss2&p=1003" rel="self" type="application/rss+xml" />
+	<link>@p=1003</link>
+	<description>Ukrainian online journal about skateboarders life</description>
+	<lastBuildDate>Wed, 21 Mar 2012 21:50:34 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>../wordpress.org/@v=3.0.5</generator>
+	<item>
+		<title>От: Данил Людовик</title>
+		<link>@p=1003#comment-1103</link>
+		<dc:creator>Данил Людовик</dc:creator>
+		<pubDate>Tue, 19 Jul 2011 19:50:03 +0000</pubDate>
+		<guid isPermaLink="false">@p=1003#comment-1103</guid>
+		<description>отлично откатали)Очень понравилось)</description>
+		<content:encoded><![CDATA[<p>отлично откатали)Очень понравилось)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: ПРУЖИНА</title>
+		<link>@p=1003#comment-1070</link>
+		<dc:creator>ПРУЖИНА</dc:creator>
+		<pubDate>Sun, 17 Jul 2011 18:53:23 +0000</pubDate>
+		<guid isPermaLink="false">@p=1003#comment-1070</guid>
+		<description>умнички</description>
+		<content:encoded><![CDATA[<p>умнички</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>От: _25D0_259E_25D0_25BB_25D0_25B5_25D0_25B3._25D0_259A</title>
+		<link>@p=1003#comment-1068</link>
+		<dc:creator>_25D0_259E_25D0_25BB_25D0_25B5_25D0_25B3._25D0_259A</dc:creator>
+		<pubDate>Sun, 17 Jul 2011 17:02:48 +0000</pubDate>
+		<guid isPermaLink="false">@p=1003#comment-1068</guid>
+		<description>весёлый монтаж!
+собака крутая!</description>
+		<content:encoded><![CDATA[<p>весёлый монтаж!<br />
+собака крутая!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
